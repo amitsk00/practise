@@ -1,0 +1,620 @@
+,Type,Date,Set Time,Title,Amount,Currency,Exchange Rate,Category Group Name,Category,Account,Notes,Labels,Status,Weekday,YearMonth,Weekend,WeekNum
+0,Expense,2023-02-28 20:23:06,20:23,Grocery Goyal,-287.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+1,Expense,2023-02-28 19:06:44,19:06,Dental stuff,-2500.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Tuesday,2023-02,WeekDay,09
+2,Expense,2023-02-28 19:06:36,19:06,Grocery,-180.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+3,Expense,2023-02-28 19:06:28,19:06,Veggies,-230.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Tuesday,2023-02,WeekDay,09
+4,Expense,2023-02-28 19:06:09,19:06,Milind Bakery,-84.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+5,Expense,2023-02-28 19:05:56,19:05,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-02,WeekDay,09
+6,Expense,2023-02-28 09:10:22,09:10,BB snacks,-39.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-02,WeekDay,09
+8,Expense,2023-02-28 07:55:53,07:55,Nyati Maid 2,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+9,Expense,2023-02-28 07:00:55,07:00,Nyati Cook,-4000.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+10,Expense,2023-02-28 07:00:36,07:00,Nyati Milk,-1700.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+11,Expense,2023-02-28 07:00:24,07:00,Car clenaing,-700.0,INR,1.0,Household,Monthly,Wallet,,0 Family,None,Tuesday,2023-02,WeekDay,09
+12,Expense,2023-02-28 07:00:16,07:00,Nyati Newspaper,-170.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,09
+13,Expense,2023-02-27 19:50:46,19:50,ODA subscription,-14999.0,INR,1.0,Household,School,AmitK CC,,0 Adi,None,Monday,2023-02,WeekDay,09
+14,Expense,2023-02-27 18:14:56,18:14,Reddy vada paav,-82.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Monday,2023-02,WeekDay,09
+15,Expense,2023-02-27 18:14:48,18:14,Fruits,-250.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2023-02,WeekDay,09
+16,Expense,2023-02-27 18:14:41,18:14,BB coffee,-20.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Monday,2023-02,WeekDay,09
+17,Expense,2023-02-26 17:40:24,17:40,Help Luxor electrician,-1000.0,INR,1.0,Household,Donation,AmitK Savings,,Donation,None,Sunday,2023-02,WeekEnd,09
+18,Expense,2023-02-26 16:04:09,16:04,Pizza,-882.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Sunday,2023-02,WeekEnd,09
+19,Expense,2023-02-26 07:55:18,07:55,Nyati Electricity bill,-1345.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,09
+20,Expense,2023-02-25 15:09:17,15:09,Paav,-40.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+21,Expense,2023-02-25 15:09:10,15:09,Veggies,-120.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Saturday,2023-02,WeekEnd,08
+22,Expense,2023-02-25 15:08:58,15:08,Steel shop,-100.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+23,Expense,2023-02-25 15:08:45,15:08,Towel,-130.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+24,Expense,2023-02-25 15:06:20,15:06,Riddish Advik Munj contri,-3947.0,INR,1.0,Others,Gift,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+25,Expense,2023-02-25 14:59:41,14:59,Coriander,-20.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+26,Expense,2023-02-25 14:59:29,14:59,Misal masala,-60.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+27,Expense,2023-02-25 14:59:15,14:59,Ganesh Sweets,-350.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,08
+30,Expense,2023-02-24 10:20:28,10:20,Ganesh Sweets,-45.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Adi 0 Dipti,None,Friday,2023-02,WeekDay,08
+31,Expense,2023-02-24 10:20:12,10:20,Paav and bun,-60.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,08
+32,Expense,2023-02-24 10:20:02,10:20,Eggs,-60.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,08
+33,Expense,2023-02-24 10:19:53,10:19,Veggies,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2023-02,WeekDay,08
+34,Expense,2023-02-24 10:18:52,10:18,Ripple tea,-1025.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,08
+37,Expense,2023-02-22 15:26:33,15:26,BB snacks,-35.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-02,WeekDay,08
+38,Expense,2023-02-22 15:26:26,15:26,BB coffee,-20.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-02,WeekDay,08
+39,Expense,2023-02-22 08:16:43,08:16,Activa petrol,-418.0,INR,1.0,Travel,Fuel,AmitK CC,,0 Family,None,Wednesday,2023-02,WeekDay,08
+40,Expense,2023-02-21 07:46:31,07:46,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-02,WeekDay,08
+41,Expense,2023-02-20 18:58:55,18:58,Kaventers,-737.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Monday,2023-02,WeekDay,08
+42,Expense,2023-02-19 19:30:56,19:30,Curd,-45.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,08
+43,Expense,2023-02-19 11:41:48,11:41,Garg Pedhi,-768.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2023-02,WeekEnd,08
+44,Expense,2023-02-19 07:00:53,07:00,Airtel Black charges,-1296.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Sunday,2023-02,WeekEnd,08
+45,Expense,2023-02-18 18:06:23,18:06,Grocery Navaratna,-255.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,07
+46,Expense,2023-02-18 18:06:09,18:06,Ironing,-64.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Amit,None,Saturday,2023-02,WeekEnd,07
+47,Expense,2023-02-18 18:06:00,18:06,Amit Saloon,-270.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Amit,None,Saturday,2023-02,WeekEnd,07
+48,Expense,2023-02-18 12:40:33,12:40,LivePure subscription,-3294.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Saturday,2023-02,WeekEnd,07
+49,Expense,2023-02-17 12:41:12,12:41,BB lunch,-240.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Friday,2023-02,WeekDay,07
+50,Expense,2023-02-17 12:41:11,12:41,Fruits,-550.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2023-02,WeekDay,07
+51,Expense,2023-02-16 19:24:11,19:24,Dinner BBQ Nation,-1151.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Thursday,2023-02,WeekDay,07
+52,Expense,2023-02-16 19:23:59,19:23,Activa servicing,-700.0,INR,1.0,Travel,Maintenance,Dipti Savings,,0 Family,None,Thursday,2023-02,WeekDay,07
+53,Expense,2023-02-16 12:29:28,12:29,Veggies,-260.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Thursday,2023-02,WeekDay,07
+54,Expense,2023-02-15 12:29:44,12:29,Medicines,-54.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Wednesday,2023-02,WeekDay,07
+55,Expense,2023-02-15 12:29:43,12:29,Sai Baba Snacks,-44.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Wednesday,2023-02,WeekDay,07
+56,Expense,2023-02-15 11:30:19,11:30,Milind Bakery,-210.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-02,WeekDay,07
+57,Expense,2023-02-15 11:30:12,11:30,Grocery Goyal,-113.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-02,WeekDay,07
+58,Expense,2023-02-15 09:10:44,09:10,BigBasket,-1324.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Wednesday,2023-02,WeekDay,07
+59,Expense,2023-02-14 17:04:51,17:04,Milind Bakery,-170.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,07
+60,Expense,2023-02-14 17:04:40,17:04,Reddy vada paav,-100.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Tuesday,2023-02,WeekDay,07
+61,Expense,2023-02-13 20:51:18,20:51,Dentist,-5500.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Monday,2023-02,WeekDay,07
+62,Expense,2023-02-12 19:53:11,19:53,Medicines,-216.0,INR,1.0,Household,Medicines,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,07
+63,Expense,2023-02-12 19:52:26,19:52,Paneer,-90.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,07
+64,Expense,2023-02-12 19:52:09,19:52,Dinner Vishranti,-473.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,07
+65,Expense,2023-02-12 13:24:02,13:24,Khatri Bandhu Pot Icecream,-751.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Sunday,2023-02,WeekEnd,07
+68,Expense,2023-02-11 11:57:37,11:57,Dental medicine,-210.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Saturday,2023-02,WeekEnd,06
+69,Expense,2023-02-11 11:57:28,11:57,Dentist,-200.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Saturday,2023-02,WeekEnd,06
+70,Expense,2023-02-10 15:34:42,15:34,Garg Pedhi,-456.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,06
+71,Expense,2023-02-10 15:34:08,15:34,Eggs,-72.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,06
+72,Expense,2023-02-10 15:33:17,15:33,Egg tray,-70.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,06
+73,Expense,2023-02-10 15:33:10,15:33,Flowers,-10.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,06
+74,Expense,2023-02-10 15:32:36,15:32,Sai Baba Snacks,-51.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,06
+75,Expense,2023-02-09 14:31:57,14:31,Airtel bill,-185.0,INR,1.0,Household,Monthly,Dipti Savings,,0 Family,None,Thursday,2023-02,WeekDay,06
+76,Expense,2023-02-09 14:31:45,14:31,Sugarcane juice,-20.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Thursday,2023-02,WeekDay,06
+77,Expense,2023-02-09 14:31:32,14:31,Veggies,-360.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Thursday,2023-02,WeekDay,06
+78,Expense,2023-02-09 14:31:09,14:31,Activa fine,-756.0,INR,1.0,Travel,Maintenance,Dipti Savings,,0 Family,None,Thursday,2023-02,WeekDay,06
+79,Expense,2023-02-08 18:31:19,18:31,Garg Pedhi,-325.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Wednesday,2023-02,WeekDay,06
+80,Expense,2023-02-08 18:31:10,18:31,Veggies,-110.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Wednesday,2023-02,WeekDay,06
+81,Expense,2023-02-08 16:04:06,16:04,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-02,WeekDay,06
+82,Expense,2023-02-07 20:53:04,20:53,Mad Over Donut,-709.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Tuesday,2023-02,WeekDay,06
+83,Expense,2023-02-07 19:56:29,19:56,Dinner Phoenix,-299.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Tuesday,2023-02,WeekDay,06
+84,Expense,2023-02-07 19:56:12,19:56,Uber Phoenix,-90.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Tuesday,2023-02,WeekDay,06
+85,Expense,2023-02-07 17:45:50,17:45,BB coffee,-51.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-02,WeekDay,06
+86,Expense,2023-02-07 16:04:05,16:04,T shirt,-799.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Adi,None,Tuesday,2023-02,WeekDay,06
+87,Expense,2023-02-07 16:04:04,16:04,Auto Nyati,-100.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Tuesday,2023-02,WeekDay,06
+88,Expense,2023-02-06 21:03:24,21:03,Gift wrapping,-20.0,INR,1.0,Others,Gift,AmitK Savings,,0 Family,None,Monday,2023-02,WeekDay,06
+89,Expense,2023-02-06 21:03:17,21:03,Eggs,-72.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2023-02,WeekDay,06
+92,Expense,2023-02-05 19:27:51,19:27,Dinner Mealful Rolls,-911.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Sunday,2023-02,WeekEnd,06
+93,Expense,2023-02-05 18:57:08,18:57,Amazon Fresh,-1504.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family,None,Sunday,2023-02,WeekEnd,06
+94,Expense,2023-02-05 12:05:59,12:05,Just Born Chocolate and Wafles,-455.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Sunday,2023-02,WeekEnd,06
+95,Expense,2023-02-05 07:00:17,07:00,Renuga pipe gas bill,-952.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-02,WeekEnd,06
+96,Expense,2023-02-04 14:06:11,14:06,Wild Sugar Pattiserrie,-561.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Saturday,2023-02,WeekEnd,05
+97,Expense,2023-02-04 13:19:12,13:19,Grocery Goyal,-30.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,05
+98,Expense,2023-02-04 13:19:02,13:19,Garg Pedhi,-906.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Saturday,2023-02,WeekEnd,05
+99,Expense,2023-02-04 10:13:36,10:13,Parle G,-20.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,05
+100,Expense,2023-02-04 10:13:27,10:13,Paneer,-80.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-02,WeekEnd,05
+101,Expense,2023-02-04 10:13:17,10:13,Breakfast,-170.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-02,WeekEnd,05
+102,Expense,2023-02-03 18:37:10,18:37,Ambat God,-145.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,05
+103,Expense,2023-02-03 18:36:54,18:36,Ganesh Sweets,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,05
+104,Expense,2023-02-03 18:36:42,18:36,Kachchi Dabeli,-30.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Friday,2023-02,WeekDay,05
+105,Expense,2023-02-03 18:36:35,18:36,Veggies,-180.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2023-02,WeekDay,05
+107,Expense,2023-02-03 14:27:02,14:27,VU TV insurance,-3100.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Family,None,Friday,2023-02,WeekDay,05
+108,Expense,2023-02-03 14:26:30,14:26,Robotic arm,-1950.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Family,None,Friday,2023-02,WeekDay,05
+109,Expense,2023-02-02 18:38:37,18:38,Milind Bakery,-230.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Thursday,2023-02,WeekDay,05
+110,Expense,2023-02-02 17:13:57,17:13,BMC snacks,-27.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Thursday,2023-02,WeekDay,05
+111,Expense,2023-02-02 17:13:49,17:13,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2023-02,WeekDay,05
+116,Expense,2023-02-01 18:26:23,18:26,Eggs,-78.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Wednesday,2023-02,WeekDay,05
+117,Expense,2023-02-01 18:26:16,18:26,Idli batter,-35.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Wednesday,2023-02,WeekDay,05
+118,Expense,2023-02-01 18:26:04,18:26,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-02,WeekDay,05
+119,Expense,2023-02-01 09:24:02,09:24,TV Vu GloLED,-38999.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Family,None,Wednesday,2023-02,WeekDay,05
+1,Expense,2023-01-31 20:26:26,20:26,Handbag,-2299.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Tuesday,2023-01,WeekDay,05
+2,Expense,2023-01-31 20:26:02,20:26,Parking Phoenix mall,-25.0,INR,1.0,Travel,Parking,Dipti Savings,,0 Dipti,None,Tuesday,2023-01,WeekDay,05
+3,Expense,2023-01-31 20:25:41,20:25,McDonalds,-298.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Tuesday,2023-01,WeekDay,05
+4,Expense,2023-01-31 20:25:19,20:25,Zivame,-1495.0,INR,1.0,Entertainment,Clothing,Dipti Savings,,0 Dipti,None,Tuesday,2023-01,WeekDay,05
+5,Expense,2023-01-31 20:25:00,20:25,Activa petrol,-501.0,INR,1.0,Travel,Fuel,Dipti Savings,,0 Family,None,Tuesday,2023-01,WeekDay,05
+6,Expense,2023-01-30 12:41:20,12:41,Moto Edge30,-34999.0,INR,1.0,Others,Gift,AmitK CC,,0 Dipti,None,Monday,2023-01,WeekDay,05
+7,Expense,2023-01-30 07:00:55,07:00,Nyati Cook,-4000.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,05
+9,Expense,2023-01-30 07:00:36,07:00,Nyati Milk,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,05
+10,Expense,2023-01-30 07:00:24,07:00,Car clenaing,-700.0,INR,1.0,Household,Monthly,Wallet,,0 Family,None,Monday,2023-01,WeekDay,05
+11,Expense,2023-01-30 07:00:16,07:00,Nyati Newspaper,-170.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,05
+12,Expense,2023-01-29 21:26:57,21:26,Ambat God,-75.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2023-01,WeekEnd,05
+15,Expense,2023-01-29 19:26:44,19:26,Dinner Subway,-1060.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Family,None,Sunday,2023-01,WeekEnd,05
+16,Expense,2023-01-29 07:55:53,07:55,Nyati Maid 2,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,05
+17,Expense,2023-01-27 22:25:20,22:25,Dry fruits,-549.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family Health ,None,Friday,2023-01,WeekDay,04
+18,Expense,2023-01-27 22:15:32,22:15,Shampoo etc,-267.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Friday,2023-01,WeekDay,04
+19,Expense,2023-01-27 14:24:59,14:24,Eggs,-78.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-01,WeekDay,04
+20,Expense,2023-01-26 20:05:55,20:05,Sunth powder,-25.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,04
+21,Expense,2023-01-26 20:05:48,20:05,Pani puri,-20.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Thursday,2023-01,WeekDay,04
+22,Expense,2023-01-26 20:05:34,20:05,Veggies,-70.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Thursday,2023-01,WeekDay,04
+23,Expense,2023-01-26 20:05:25,20:05,Tailor work,-140.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Dipti,None,Thursday,2023-01,WeekDay,04
+24,Expense,2023-01-26 14:25:36,14:25,Just Born Chocolate and Wafles,-548.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Thursday,2023-01,WeekDay,04
+25,Expense,2023-01-26 11:34:41,11:34,BigBasket,-1300.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Thursday,2023-01,WeekDay,04
+26,Expense,2023-01-26 11:34:06,11:34,BigBasket,-24.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,04
+27,Expense,2023-01-26 07:55:18,07:55,Nyati Electricity bill,-1150.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2023-01,WeekDay,04
+28,Expense,2023-01-25 11:35:58,11:35,BB coffee,-40.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-01,WeekDay,04
+29,Expense,2023-01-25 11:35:57,11:35,BB snacks,-60.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Wednesday,2023-01,WeekDay,04
+32,Expense,2023-01-23 20:40:25,20:40,Strap for FitBit,-1124.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Adi,None,Monday,2023-01,WeekDay,04
+33,Expense,2023-01-22 18:50:30,18:50,Sunday lunch,-220.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Adi 0 Dipti,None,Sunday,2023-01,WeekEnd,04
+34,Expense,2023-01-22 18:50:00,18:50,Nyati race registration,-60.0,INR,1.0,Entertainment,Exercise,Dipti Savings,,0 Family,None,Sunday,2023-01,WeekEnd,04
+35,Expense,2023-01-22 15:44:43,15:44,Airport food,-219.0,INR,1.0,Entertainment,Dining Out,AmitK CC,,0 Amit Campus,None,Sunday,2023-01,WeekEnd,04
+36,Expense,2023-01-22 15:44:22,15:44,Haldirams,-160.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,04
+37,Expense,2023-01-22 00:47:15,00:47,Puran Poli,-90.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Sunday,2023-01,WeekEnd,04
+38,Expense,2023-01-22 00:47:00,00:47,Chaat,-30.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Sunday,2023-01,WeekEnd,04
+39,Expense,2023-01-21 18:53:07,18:53,Cab Ujjain,-700.0,INR,1.0,Travel,Cab,AmitK Savings,,Campus,None,Saturday,2023-01,WeekEnd,03
+40,Expense,2023-01-21 18:53:06,18:53,Temple Ujjain,-250.0,INR,1.0,Travel,Booking,AmitK Savings,,Campus,None,Saturday,2023-01,WeekEnd,03
+41,Expense,2023-01-21 18:51:22,18:51,Cab 1,-56.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,03
+42,Expense,2023-01-21 18:51:21,18:51,Cab 2,-64.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,03
+43,Expense,2023-01-21 18:51:20,18:51,Chhole Kulcha,-110.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,03
+44,Expense,2023-01-21 18:51:19,18:51,Ice cream,-551.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,03
+45,Expense,2023-01-21 14:04:26,14:04,Idli rice,-80.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,03
+46,Expense,2023-01-21 11:10:38,11:10,Auto Mariott,-200.0,INR,1.0,Travel,Cab,Wallet,,Campus,None,Saturday,2023-01,WeekEnd,03
+47,Expense,2023-01-20 22:05:31,22:05,Dabeli,-80.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Friday,2023-01,WeekDay,03
+48,Expense,2023-01-20 22:05:17,22:05,Benjo,-35.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Friday,2023-01,WeekDay,03
+49,Expense,2023-01-20 22:04:48,22:04,Oreo shake,-140.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Friday,2023-01,WeekDay,03
+50,Expense,2023-01-20 22:04:19,22:04,Thekka Coffee,-285.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Campus,None,Friday,2023-01,WeekDay,03
+51,Expense,2023-01-20 22:03:27,22:03,Om Namkeen,-530.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family Campus,None,Friday,2023-01,WeekDay,03
+52,Expense,2023-01-20 18:51:33,18:51,Veggies,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2023-01,WeekDay,03
+53,Expense,2023-01-20 18:51:32,18:51,Vada paav,-15.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Adi,None,Friday,2023-01,WeekDay,03
+54,Expense,2023-01-20 18:51:31,18:51,Samosa,-10.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Friday,2023-01,WeekDay,03
+55,Expense,2023-01-20 18:51:30,18:51,Grocery,-130.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-01,WeekDay,03
+56,Expense,2023-01-20 17:23:22,17:23,Chhole Kulcha,-110.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Adi 0 Dipti,None,Friday,2023-01,WeekDay,03
+57,Expense,2023-01-20 17:22:59,17:22,Cab VIBGYOR,-141.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Friday,2023-01,WeekDay,03
+59,Expense,2023-01-19 15:59:32,15:59,Formal tops,-800.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Thursday,2023-01,WeekDay,03
+60,Expense,2023-01-19 12:55:33,12:55,Stationary,-320.0,INR,1.0,Household,School,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,03
+61,Expense,2023-01-19 12:55:19,12:55,Veggies,-70.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Thursday,2023-01,WeekDay,03
+62,Expense,2023-01-19 12:54:58,12:54,Medicines,-90.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,03
+63,Expense,2023-01-19 12:54:43,12:54,Grocery,-250.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,03
+64,Expense,2023-01-19 12:54:37,12:54,Flowers,-10.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Thursday,2023-01,WeekDay,03
+65,Expense,2023-01-19 07:00:53,07:00,Airtel Black charges,-1296.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Thursday,2023-01,WeekDay,03
+66,Expense,2023-01-18 22:15:52,22:15,Times Prime subscription,-899.0,INR,1.0,Entertainment,Movies,AmitK Savings,,0 Family,None,Wednesday,2023-01,WeekDay,03
+67,Expense,2023-01-18 18:33:41,18:33,LivePure subscription,-599.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Wednesday,2023-01,WeekDay,03
+68,Expense,2023-01-18 18:33:35,18:33,Eggs,-78.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Wednesday,2023-01,WeekDay,03
+69,Expense,2023-01-18 18:33:27,18:33,Reddy vada paav,-80.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Wednesday,2023-01,WeekDay,03
+70,Expense,2023-01-17 18:27:02,18:27,Reddy vada paav,-40.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Tuesday,2023-01,WeekDay,03
+71,Expense,2023-01-17 18:26:24,18:26,Screen guard,-100.0,INR,1.0,Household,Maintenance,Wallet,,0 Amit,None,Tuesday,2023-01,WeekDay,03
+72,Expense,2023-01-17 11:44:45,11:44,BB coffee,-51.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-01,WeekDay,03
+73,Expense,2023-01-16 18:33:53,18:33,Sayali gift contri,-500.0,INR,1.0,Others,Gift,Dipti Savings,,0 Dipti,None,Monday,2023-01,WeekDay,03
+74,Expense,2023-01-16 18:33:52,18:33,Sri Sai Vada Paav,-70.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Monday,2023-01,WeekDay,03
+75,Expense,2023-01-16 18:33:51,18:33,Garg Pedhi,-130.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Monday,2023-01,WeekDay,03
+76,Expense,2023-01-16 18:33:50,18:33,Kachchi Dabeli,-15.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Monday,2023-01,WeekDay,03
+77,Expense,2023-01-16 14:00:13,14:00,Laptop repair,-1200.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,03
+78,Expense,2023-01-15 21:24:47,21:24,Makeup stuff,-220.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2023-01,WeekEnd,03
+79,Expense,2023-01-15 21:24:40,21:24,Gajra,-60.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2023-01,WeekEnd,03
+80,Expense,2023-01-15 21:24:31,21:24,Aata making,-21.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2023-01,WeekEnd,03
+81,Expense,2023-01-15 11:46:13,11:46,Plants from nursery,-140.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,03
+82,Expense,2023-01-15 11:45:59,11:45,Wheat,-120.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,03
+83,Expense,2023-01-15 11:45:43,11:45,A4 papers,-5.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Dipti,None,Sunday,2023-01,WeekEnd,03
+84,Expense,2023-01-15 11:45:28,11:45,Belt repair,-10.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Adi,None,Sunday,2023-01,WeekEnd,03
+85,Expense,2023-01-14 15:32:40,15:32,Lunch little Italy,-3900.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,02
+86,Expense,2023-01-14 15:32:26,15:32,Skin medicines,-360.0,INR,1.0,Household,Medicines,AmitK Savings,,0 Adi,None,Saturday,2023-01,WeekEnd,02
+87,Expense,2023-01-14 15:32:02,15:32,Skin Dr,-940.0,INR,1.0,Household,Medicines,AmitK Savings,,0 Adi,None,Saturday,2023-01,WeekEnd,02
+88,Expense,2023-01-13 13:22:05,13:22,Garg Pedhi,-883.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Friday,2023-01,WeekDay,02
+89,Expense,2023-01-13 08:16:45,08:16,Cake Amit,-1400.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Family,None,Friday,2023-01,WeekDay,02
+90,Expense,2023-01-13 08:16:44,08:16,Vada paav,-15.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Friday,2023-01,WeekDay,02
+91,Expense,2023-01-13 08:16:43,08:16,Print outs,-22.0,INR,1.0,Household,School,Dipti Savings,,0 Dipti,None,Friday,2023-01,WeekDay,02
+92,Expense,2023-01-11 19:27:39,19:27,Licious Chicken,-569.0,INR,1.0,Household,Grocery,AmitK CC,,0 Adi 0 Amit,None,Wednesday,2023-01,WeekDay,02
+93,Expense,2023-01-10 21:09:47,21:09,IRCTC KYN Pune,-157.0,INR,1.0,Travel,Booking,AmitK Savings,,0 Family,None,Tuesday,2023-01,WeekDay,02
+94,Expense,2023-01-10 21:09:22,21:09,IRCTC PUN KYN,-107.0,INR,1.0,Travel,Booking,AmitK Savings,,0 Family,None,Tuesday,2023-01,WeekDay,02
+95,Expense,2023-01-10 19:34:49,19:34,Print outs,-60.0,INR,1.0,Household,School,AmitK Savings,,0 Family,None,Tuesday,2023-01,WeekDay,02
+96,Expense,2023-01-09 21:17:47,21:17,Eggs,-78.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,02
+97,Expense,2023-01-09 21:17:35,21:17,Flowers,-10.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,02
+98,Expense,2023-01-09 21:17:11,21:17,Idli batter,-35.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2023-01,WeekDay,02
+99,Expense,2023-01-09 21:16:56,21:16,Stationary,-68.0,INR,1.0,Household,School,AmitK Savings,,0 Adi,None,Monday,2023-01,WeekDay,02
+100,Expense,2023-01-09 16:12:24,16:12,Amazon Fresh,-1558.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family,None,Monday,2023-01,WeekDay,02
+101,Expense,2023-01-09 13:24:32,13:24,Eyebrow pencil,-100.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Dipti,None,Monday,2023-01,WeekDay,02
+102,Expense,2023-01-09 13:24:24,13:24,Veggies,-360.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Monday,2023-01,WeekDay,02
+103,Expense,2023-01-09 13:24:16,13:24,Specs,-200.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Monday,2023-01,WeekDay,02
+104,Expense,2023-01-09 09:30:26,09:30,Weekly salad,-660.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Amit,None,Monday,2023-01,WeekDay,02
+105,Expense,2023-01-09 09:30:15,09:30,Weekly salad,-660.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Dipti,None,Monday,2023-01,WeekDay,02
+106,Expense,2023-01-08 22:40:17,22:40,Vada paav Karjat,-30.0,INR,1.0,Entertainment,Dining Out,Wallet,,0 Family,None,Sunday,2023-01,WeekEnd,02
+107,Expense,2023-01-08 22:39:41,22:39,Auto Nyati,-150.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,02
+108,Expense,2023-01-08 22:39:25,22:39,Breakfast,-180.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Sunday,2023-01,WeekEnd,02
+109,Expense,2023-01-08 19:47:28,19:47,Snacks KYN,-50.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,02
+110,Expense,2023-01-08 19:47:14,19:47,Auto KYN,-150.0,INR,1.0,Travel,Travel,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,02
+111,Expense,2023-01-08 19:46:57,19:46,Auto Anantham,-50.0,INR,1.0,Travel,Cab,Wallet,,0 Family,None,Sunday,2023-01,WeekEnd,02
+112,Expense,2023-01-08 19:46:39,19:46,Gift for Meera,-1500.0,INR,1.0,Others,Gift,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,02
+113,Expense,2023-01-08 17:14:28,17:14,Uptownie,-699.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Sunday,2023-01,WeekEnd,02
+114,Expense,2023-01-07 21:45:20,21:45,Kulfi,-60.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+115,Expense,2023-01-07 21:44:59,21:44,Tarri Misal,-540.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+116,Expense,2023-01-07 21:44:15,21:44,Ballaleshwar,-140.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+117,Expense,2023-01-07 21:43:52,21:43,Auto Anantham,-170.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+118,Expense,2023-01-07 21:43:22,21:43,Gift for home,-300.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+119,Expense,2023-01-07 21:42:59,21:42,Breakfast Cumsum,-190.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+120,Expense,2023-01-07 21:42:25,21:42,Auto Pune,-177.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Saturday,2023-01,WeekEnd,01
+124,Expense,2023-01-06 11:47:38,11:47,Watch repair,-400.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Dipti,None,Friday,2023-01,WeekDay,01
+125,Expense,2023-01-06 11:47:22,11:47,Specs,-600.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Friday,2023-01,WeekDay,01
+128,Expense,2023-01-05 18:38:57,18:38,Stationary,-30.0,INR,1.0,Household,School,AmitK Savings,,0 Amit,None,Thursday,2023-01,WeekDay,01
+129,Expense,2023-01-05 12:05:28,12:05,DD lonavala trip,-5000.0,INR,1.0,Travel,Travel,Dipti Savings,,0 Dipti,None,Thursday,2023-01,WeekDay,01
+130,Expense,2023-01-05 07:00:17,07:00,Renuga pipe gas bill,-70.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2023-01,WeekDay,01
+133,Expense,2023-01-04 13:00:29,13:00,Verna servicing,-7650.0,INR,1.0,Travel,Maintenance,AmitK Savings,,0 Family,None,Wednesday,2023-01,WeekDay,01
+134,Expense,2023-01-04 09:20:48,09:20,Petrol,-250.0,INR,1.0,Travel,Fuel,AmitK CC,,0 Family,None,Wednesday,2023-01,WeekDay,01
+135,Expense,2023-01-03 19:15:54,19:15,Idli batter,-35.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Tuesday,2023-01,WeekDay,01
+136,Expense,2023-01-03 19:15:33,19:15,Small diary,-20.0,INR,1.0,Household,School,AmitK Savings,,0 Adi,None,Tuesday,2023-01,WeekDay,01
+138,Expense,2023-01-02 22:20:53,22:20,Supporter,-275.0,INR,1.0,Entertainment,Exercise,AmitK CC,,0 Amit,None,Monday,2023-01,WeekDay,01
+139,Expense,2023-01-02 21:56:36,21:56,Strap for FitBit,-499.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Adi,None,Monday,2023-01,WeekDay,01
+141,Expense,2023-01-02 13:12:58,13:12,BigBasket,-203.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Monday,2023-01,WeekDay,01
+142,Expense,2023-01-02 13:12:44,13:12,BigBasket,-1526.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Monday,2023-01,WeekDay,01
+143,Expense,2023-01-02 10:34:48,10:34,Petrol,-3500.0,INR,1.0,Travel,Fuel,AmitK CC,,Mahabaleshwar_Dec22,None,Monday,2023-01,WeekDay,01
+144,Expense,2023-01-02 10:32:28,10:32,Salads,-500.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Monday,2023-01,WeekDay,01
+148,Expense,2023-01-01 19:43:35,19:43,IRCTC KYN Pune,-265.0,INR,1.0,Travel,Booking,Dipti Savings,,0 Family,None,Sunday,2023-01,WeekEnd,01
+149,Expense,2023-01-01 19:37:37,19:37,IRCTC Pune KYN,-536.0,INR,1.0,Travel,Booking,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,01
+150,Expense,2023-01-01 14:28:05,14:28,Grocery Navaratna,-102.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-01,WeekEnd,01
+151,Expense,2023-01-01 14:06:41,14:06,Toll Lonavla return,-203.0,INR,1.0,Travel,Travel,AmitK Savings,,NewYear_Dec22,None,Sunday,2023-01,WeekEnd,01
+152,Expense,2023-01-01 14:06:10,14:06,Party contri,-7700.0,INR,1.0,Entertainment,Party,AmitK Savings,,NewYear_Dec22,None,Sunday,2023-01,WeekEnd,01
+0,Expense,2022-12-31 14:07:11,14:07,Chips n all,-80.0,INR,1.0,Household,Grocery,AmitK Savings,,NewYear_Dec22,None,Saturday,2022-12,WeekEnd,52
+1,Expense,2022-12-31 14:07:10,14:07,Petrol,-1000.0,INR,1.0,Travel,Fuel,Wallet,,NewYear_Dec22,None,Saturday,2022-12,WeekEnd,52
+2,Expense,2022-12-31 14:07:09,14:07,Toll Lonavla,-81.0,INR,1.0,Travel,Travel,AmitK Savings,,NewYear_Dec22,None,Saturday,2022-12,WeekEnd,52
+3,Expense,2022-12-30 19:39:21,19:39,Veggies,-200.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2022-12,WeekDay,52
+4,Expense,2022-12-30 14:51:30,14:51,Milind Bakery,-210.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,52
+5,Expense,2022-12-30 13:54:08,13:54,Amul ice cream,-240.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Friday,2022-12,WeekDay,52
+6,Expense,2022-12-30 11:23:23,11:23,Local train,-15.0,INR,1.0,Travel,Travel,Dipti Savings,,0 Dipti,None,Friday,2022-12,WeekDay,52
+7,Expense,2022-12-30 11:23:01,11:23,Auto Shivaji Nagar,-151.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Friday,2022-12,WeekDay,52
+8,Expense,2022-12-30 07:00:55,07:00,Nyati Cook,-4000.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,52
+10,Expense,2022-12-30 07:00:36,07:00,Nyati Milk,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,52
+11,Expense,2022-12-30 07:00:24,07:00,Car clenaing,-700.0,INR,1.0,Household,Monthly,Wallet,,0 Family,None,Friday,2022-12,WeekDay,52
+12,Expense,2022-12-30 07:00:16,07:00,Nyati Newspaper,-170.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,52
+13,Expense,2022-12-29 19:46:53,19:46,Dinner Barbeque Nation,-612.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+14,Expense,2022-12-29 17:35:21,17:35,Toll Mahabaleshwar return,-110.0,INR,1.0,Travel,Travel,AmitK Savings,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+15,Expense,2022-12-29 17:34:58,17:34,Lunch Gandharv,-600.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+16,Expense,2022-12-29 17:33:09,17:33,Nana Fadanvis park entry,-200.0,INR,1.0,Travel,Booking,Wallet,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+17,Expense,2022-12-29 17:32:49,17:32,Temple parking,-30.0,INR,1.0,Travel,Parking,Wallet,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+18,Expense,2022-12-29 17:32:17,17:32,Milk curd,-66.0,INR,1.0,Household,Grocery,Dipti Savings,,Mahabaleshwar_Dec22,None,Thursday,2022-12,WeekDay,52
+19,Expense,2022-12-29 17:31:58,17:31,Leather purse,-630.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Thursday,2022-12,WeekDay,52
+20,Expense,2022-12-29 17:31:41,17:31,Satari pedha,-30.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Thursday,2022-12,WeekDay,52
+21,Expense,2022-12-29 07:55:53,07:55,Nyati Maid 2,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2022-12,WeekDay,52
+22,Expense,2022-12-28 15:04:01,15:04,Lunch Kingberry,-850.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Wednesday,2022-12,WeekDay,52
+23,Expense,2022-12-28 15:03:50,15:03,Strawberry,-150.0,INR,1.0,Household,Grocery,Wallet,,Mahabaleshwar_Dec22,None,Wednesday,2022-12,WeekDay,52
+24,Expense,2022-12-27 22:31:48,22:31,Strawberry,-150.0,INR,1.0,Household,Grocery,Wallet,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+25,Expense,2022-12-27 18:08:59,18:08,Snacks in cave,-130.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+26,Expense,2022-12-27 18:08:25,18:08,Entry cave 2,-45.0,INR,1.0,Travel,Travel,Wallet,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+27,Expense,2022-12-27 18:08:12,18:08,Entry cave 1,-45.0,INR,1.0,Travel,Travel,AmitK Savings,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+28,Expense,2022-12-27 16:00:49,16:00,Kingberry desserts,-410.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+29,Expense,2022-12-27 16:00:25,16:00,Lunch Kamat,-917.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+30,Expense,2022-12-27 15:59:29,15:59,Horse tip,-300.0,INR,1.0,Travel,Travel,Wallet,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+31,Expense,2022-12-27 15:59:05,15:59,Horse ride,-5100.0,INR,1.0,Travel,Travel,AmitK Savings,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+32,Expense,2022-12-27 15:57:53,15:57,Tableland entry,-30.0,INR,1.0,Travel,Parking,Wallet,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+33,Expense,2022-12-27 15:57:38,15:57,Bathing soaps,-200.0,INR,1.0,Household,HouseholdItems,AmitK CC,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+34,Expense,2022-12-27 15:57:18,15:57,Kingberry wine,-520.0,INR,1.0,Entertainment,Party,AmitK CC,,Mahabaleshwar_Dec22,None,Tuesday,2022-12,WeekDay,52
+35,Expense,2022-12-26 17:02:35,17:02,Sugarcane juice,-90.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+36,Expense,2022-12-26 17:02:07,17:02,Snacks,-160.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+37,Expense,2022-12-26 17:01:49,17:01,Temple parking,-20.0,INR,1.0,Travel,Parking,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+38,Expense,2022-12-26 17:01:19,17:01,Strawberry,-90.0,INR,1.0,Entertainment,Dining Out,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+39,Expense,2022-12-26 17:00:35,17:00,Entry 3,-20.0,INR,1.0,Travel,Booking,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+40,Expense,2022-12-26 17:00:25,17:00,Entry 2,-150.0,INR,1.0,Travel,Booking,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+41,Expense,2022-12-26 17:00:05,17:00,Entry 1,-100.0,INR,1.0,Travel,Booking,Wallet,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+42,Expense,2022-12-26 16:59:18,16:59,Dipti purse,-30.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+43,Expense,2022-12-26 16:56:21,16:56,Toll Mahabaleshwar,-110.0,INR,1.0,Travel,Travel,AmitK Savings,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+44,Expense,2022-12-26 16:55:00,16:55,Breakfast Oscarwadi Misal,-380.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+45,Expense,2022-12-26 16:54:34,16:54,Lunch Mapro,-1343.0,INR,1.0,Entertainment,Dining Out,AmitK CC,,Mahabaleshwar_Dec22,None,Monday,2022-12,WeekDay,52
+46,Expense,2022-12-26 07:55:18,07:55,Nyati Electricity bill,-1710.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Monday,2022-12,WeekDay,52
+47,Expense,2022-12-25 20:03:51,20:03,Xmas food stall,-190.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Sunday,2022-12,WeekEnd,52
+48,Expense,2022-12-25 17:02:50,17:02,Misc shopping,-110.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Sunday,2022-12,WeekEnd,52
+49,Expense,2022-12-25 12:43:36,12:43,Petrol,-3231.0,INR,1.0,Travel,Fuel,AmitK CC,,0 Family,None,Sunday,2022-12,WeekEnd,52
+50,Expense,2022-12-24 19:30:12,19:30,Pani puri,-20.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Saturday,2022-12,WeekEnd,51
+51,Expense,2022-12-24 19:30:02,19:30,Beer,-640.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Amit 0 Dipti,None,Saturday,2022-12,WeekEnd,51
+52,Expense,2022-12-24 19:29:39,19:29,Chinese dinner,-270.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,51
+53,Expense,2022-12-24 17:18:10,17:18,Nyati gym chatges,-2360.0,INR,1.0,Entertainment,Exercise,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,51
+54,Expense,2022-12-24 13:37:38,13:37,CakeZone,-773.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Saturday,2022-12,WeekEnd,51
+55,Expense,2022-12-24 13:28:44,13:28,Lunch Nothing But Chicken,-567.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Adi 0 Amit,None,Saturday,2022-12,WeekEnd,51
+56,Expense,2022-12-24 11:55:10,11:55,Grocery Navaratna,-245.0,INR,1.0,Household,Grocery,AmitK Savings,,Mahabaleshwar_Dec22,None,Saturday,2022-12,WeekEnd,51
+57,Expense,2022-12-24 11:55:02,11:55,Amit Saloon,-250.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Amit,None,Saturday,2022-12,WeekEnd,51
+58,Expense,2022-12-24 11:54:54,11:54,Adi saloon,-100.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Adi,None,Saturday,2022-12,WeekEnd,51
+61,Expense,2022-12-23 22:21:29,22:21,Auto Nyati,-199.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,51
+62,Expense,2022-12-23 22:21:12,22:21,Kharvas,-40.0,INR,1.0,Entertainment,Dining Out,Wallet,,0 Adi 0 Dipti,None,Friday,2022-12,WeekDay,51
+63,Expense,2022-12-23 22:20:24,22:20,Z bridge food court,-350.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,51
+64,Expense,2022-12-23 22:20:02,22:20,Snacks Balgandharva,-120.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Friday,2022-12,WeekDay,51
+65,Expense,2022-12-23 19:30:18,19:30,Begger,-20.0,INR,1.0,Household,Donation,Wallet,,0 Family,None,Friday,2022-12,WeekDay,51
+66,Expense,2022-12-23 17:12:54,17:12,Auto Balgandharva,-198.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,51
+67,Expense,2022-12-23 13:21:34,13:21,Marathi Play Vacuum Cleaner,-1609.0,INR,1.0,Entertainment,Movies,AmitK CC,,0 Family,None,Friday,2022-12,WeekDay,51
+68,Expense,2022-12-23 11:49:12,11:49,Dentist visit2,-10700.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Friday,2022-12,WeekDay,51
+69,Expense,2022-12-22 19:45:23,19:45,BB coffee,-20.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Thursday,2022-12,WeekDay,51
+70,Expense,2022-12-22 19:45:12,19:45,Activa petrol,-430.0,INR,1.0,Travel,Fuel,AmitK CC,,0 Family,None,Thursday,2022-12,WeekDay,51
+71,Expense,2022-12-21 20:52:30,20:52,DD medicine,-230.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Wednesday,2022-12,WeekDay,51
+72,Expense,2022-12-21 20:52:19,20:52,Courier,-100.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Dipti,None,Wednesday,2022-12,WeekDay,51
+73,Expense,2022-12-21 20:52:06,20:52,Print outs,-10.0,INR,1.0,Household,School,Dipti Savings,,0 Dipti,None,Wednesday,2022-12,WeekDay,51
+74,Expense,2022-12-21 11:49:24,11:49,Dentist visit3,-2200.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Wednesday,2022-12,WeekDay,51
+75,Expense,2022-12-21 11:47:51,11:47,Stationary,-50.0,INR,1.0,Household,School,Dipti Savings,,0 Dipti,None,Wednesday,2022-12,WeekDay,51
+76,Expense,2022-12-21 11:47:45,11:47,Veggies,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Wednesday,2022-12,WeekDay,51
+77,Expense,2022-12-21 11:47:38,11:47,Grocery,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2022-12,WeekDay,51
+78,Expense,2022-12-20 17:25:41,17:25,Dinner Chinese Wok,-322.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Tuesday,2022-12,WeekDay,51
+79,Expense,2022-12-20 14:21:22,14:21,Dentist visit1,-10000.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Tuesday,2022-12,WeekDay,51
+80,Expense,2022-12-20 14:21:06,14:21,Milind Bakery,-25.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Tuesday,2022-12,WeekDay,51
+81,Expense,2022-12-20 14:20:23,14:20,NIC,-507.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Tuesday,2022-12,WeekDay,51
+82,Expense,2022-12-19 07:00:53,07:00,Airtel Black charges,-1296.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Monday,2022-12,WeekDay,51
+83,Expense,2022-12-18 12:08:08,12:08,Fruits,-130.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2022-12,WeekEnd,51
+84,Expense,2022-12-18 12:08:07,12:08,Veggies,-160.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Sunday,2022-12,WeekEnd,51
+85,Expense,2022-12-18 12:08:06,12:08,Chaat,-60.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Sunday,2022-12,WeekEnd,51
+86,Expense,2022-12-18 12:08:05,12:08,Pani puri,-20.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2022-12,WeekEnd,51
+87,Expense,2022-12-18 12:08:04,12:08,Chinese starters,-170.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Amit,None,Sunday,2022-12,WeekEnd,51
+88,Expense,2022-12-17 21:17:31,21:17,Dinner Vishranti,-943.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+89,Expense,2022-12-17 14:02:55,14:02,Grocery,-40.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+90,Expense,2022-12-17 14:02:48,14:02,Cosmetics,-40.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Saturday,2022-12,WeekEnd,50
+91,Expense,2022-12-17 12:29:57,12:29,Cooking pot,-280.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+92,Expense,2022-12-17 12:29:36,12:29,Sri Sai Vada Paav,-30.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+93,Expense,2022-12-17 12:29:24,12:29,Kachchi Dabeli,-45.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+94,Expense,2022-12-17 12:29:17,12:29,Grocery Goyal,-108.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,50
+95,Expense,2022-12-16 18:55:46,18:55,Sri Sai Vada Paav,-27.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,50
+96,Expense,2022-12-16 18:20:58,18:20,Aata,-55.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,50
+97,Expense,2022-12-16 18:20:45,18:20,Garg Pedhi,-288.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,50
+98,Expense,2022-12-16 15:43:02,15:43,DD shopping,-1741.0,INR,1.0,Entertainment,Clothing,Dipti Savings,,0 Dipti,None,Friday,2022-12,WeekDay,50
+99,Expense,2022-12-16 13:25:04,13:25,Jumpsuit,-489.0,INR,1.0,Entertainment,Clothing,Sodexho,,0 Dipti,None,Friday,2022-12,WeekDay,50
+100,Expense,2022-12-16 12:09:37,12:09,Eggs,-76.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2022-12,WeekDay,50
+101,Expense,2022-12-16 12:09:29,12:09,Veggies,-70.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Friday,2022-12,WeekDay,50
+104,Expense,2022-12-15 16:57:34,16:57,Licious Chicken,-521.0,INR,1.0,Household,Grocery,AmitK CC,,0 Adi 0 Amit,None,Thursday,2022-12,WeekDay,50
+106,Expense,2022-12-14 22:48:30,22:48,Idli batter,-35.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Wednesday,2022-12,WeekDay,50
+107,Expense,2022-12-12 18:49:19,18:49,Milind Bakery,-557.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2022-12,WeekDay,50
+108,Expense,2022-12-12 18:49:09,18:49,Sri Sai Vada Paav,-125.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Monday,2022-12,WeekDay,50
+109,Expense,2022-12-12 18:48:41,18:48,Veggies,-170.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Monday,2022-12,WeekDay,50
+110,Expense,2022-12-11 11:57:23,11:57,Rajusheth Misal,-685.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Sunday,2022-12,WeekEnd,50
+111,Expense,2022-12-11 11:57:01,11:57,Veggies,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Sunday,2022-12,WeekEnd,50
+112,Expense,2022-12-10 22:59:28,22:59,Dinner Chaitanya,-775.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,49
+113,Expense,2022-12-10 22:59:15,22:59,Chaat,-100.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Saturday,2022-12,WeekEnd,49
+114,Expense,2022-12-10 22:58:47,22:58,Sri Sai Vada Paav,-120.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,49
+115,Expense,2022-12-09 22:54:54,22:54,Medicines,-221.0,INR,1.0,Household,Medicines,AmitK Savings,,0 Amit 0 Dipti,None,Friday,2022-12,WeekDay,49
+116,Expense,2022-12-09 12:08:38,12:08,Veggies,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2022-12,WeekDay,49
+117,Expense,2022-12-09 12:08:28,12:08,Banana,-40.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2022-12,WeekDay,49
+118,Expense,2022-12-09 12:08:19,12:08,Flowers,-20.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Friday,2022-12,WeekDay,49
+119,Expense,2022-12-09 12:08:03,12:08,Activa puncture,-160.0,INR,1.0,Travel,Maintenance,Dipti Savings,,0 Family,None,Friday,2022-12,WeekDay,49
+120,Expense,2022-12-09 12:07:51,12:07,Activa petrol,-300.0,INR,1.0,Travel,Fuel,Dipti Savings,,0 Family,None,Friday,2022-12,WeekDay,49
+121,Expense,2022-12-09 11:55:42,11:55,Exotic Valley part1,-8000.0,INR,1.0,Travel,Booking,AmitK Savings,,Mahabaleshwar_Dec22,None,Friday,2022-12,WeekDay,49
+122,Expense,2022-12-09 11:48:57,11:48,Garg Pedhi,-847.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Friday,2022-12,WeekDay,49
+125,Expense,2022-12-08 20:32:45,20:32,Others,0.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,,None,Thursday,2022-12,WeekDay,49
+126,Expense,2022-12-08 19:21:47,19:21,Plants from nursery,-80.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Thursday,2022-12,WeekDay,49
+127,Expense,2022-12-08 19:21:25,19:21,Medicines,-138.0,INR,1.0,Household,Medicines,AmitK Savings,,0 Amit 0 Dipti,None,Thursday,2022-12,WeekDay,49
+128,Expense,2022-12-08 13:53:50,13:53,BB lunch,-135.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2022-12,WeekDay,49
+129,Expense,2022-12-08 13:53:40,13:53,BB coffee,-20.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Thursday,2022-12,WeekDay,49
+130,Expense,2022-12-07 19:21:07,19:21,Baby wipes,-48.0,INR,1.0,Entertainment,Shopping,AmitK Savings,,0 Family,None,Wednesday,2022-12,WeekDay,49
+131,Expense,2022-12-06 12:43:10,12:43,Steel shop,-55.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2022-12,WeekDay,49
+132,Expense,2022-12-06 12:42:44,12:42,Crazy ball,-80.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2022-12,WeekDay,49
+134,Expense,2022-12-06 12:42:09,12:42,Saloon DD,-500.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Dipti,None,Tuesday,2022-12,WeekDay,49
+135,Expense,2022-12-06 12:41:51,12:41,Hair clip,-65.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Tuesday,2022-12,WeekDay,49
+136,Expense,2022-12-06 12:41:37,12:41,Aata making,-14.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2022-12,WeekDay,49
+137,Expense,2022-12-06 12:41:27,12:41,Wheat,-80.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2022-12,WeekDay,49
+138,Expense,2022-12-06 12:41:17,12:41,Veggies,-60.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Tuesday,2022-12,WeekDay,49
+139,Expense,2022-12-06 11:09:34,11:09,Mysorepa,-105.0,INR,1.0,Household,Grocery,AmitK Savings,,Campus,None,Tuesday,2022-12,WeekDay,49
+142,Expense,2022-12-05 22:20:42,22:20,Auto Mariott,-100.0,INR,1.0,Travel,Cab,Wallet,,Campus,None,Monday,2022-12,WeekDay,49
+143,Expense,2022-12-05 22:20:27,22:20,Crab Lollipop,-89.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,Campus,None,Monday,2022-12,WeekDay,49
+144,Expense,2022-12-05 22:19:59,22:19,Dinner Mariott,-1886.0,INR,1.0,Entertainment,FoodDelivery,AmitK CC,,Campus,None,Monday,2022-12,WeekDay,49
+145,Expense,2022-12-05 07:00:17,07:00,Renuga pipe gas bill,-615.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Monday,2022-12,WeekDay,49
+146,Expense,2022-12-04 22:16:14,22:16,Grocery Goyal,-115.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2022-12,WeekEnd,49
+147,Expense,2022-12-04 22:15:59,22:15,Paneer,-80.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2022-12,WeekEnd,49
+148,Expense,2022-12-04 22:15:50,22:15,Pani puri,-40.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2022-12,WeekEnd,49
+149,Expense,2022-12-04 22:15:34,22:15,Kachchi Dabeli,-40.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Dipti,None,Sunday,2022-12,WeekEnd,49
+150,Expense,2022-12-04 22:15:18,22:15,Adi shoes,-980.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Adi,None,Sunday,2022-12,WeekEnd,49
+151,Expense,2022-12-04 15:58:32,15:58,Island Bar HYD,-635.0,INR,1.0,Entertainment,Party,AmitK CC,,Campus,None,Sunday,2022-12,WeekEnd,49
+152,Expense,2022-12-04 15:57:34,15:57,Lunch Mariott,-4715.0,INR,1.0,Entertainment,Dining Out,AmitK CC,,Campus,None,Sunday,2022-12,WeekEnd,49
+153,Expense,2022-12-04 15:56:59,15:56,BigBasket,-781.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Sunday,2022-12,WeekEnd,49
+154,Expense,2022-12-04 07:12:44,07:12,Weekly salad,-500.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Dipti,None,Sunday,2022-12,WeekEnd,49
+155,Expense,2022-12-04 07:12:43,07:12,Badminton racket,-300.0,INR,1.0,Entertainment,Exercise,Dipti Savings,,0 Family Health ,None,Sunday,2022-12,WeekEnd,49
+156,Expense,2022-12-04 07:00:51,07:00,Netflix recharge,-162.0,INR,1.0,Entertainment,Movies,AmitK CC,,0 Family,None,Sunday,2022-12,WeekEnd,49
+157,Expense,2022-12-03 10:17:35,10:17,Milk,-27.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,48
+158,Expense,2022-12-03 10:17:27,10:17,Grocery,-505.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,48
+159,Expense,2022-12-03 10:17:20,10:17,Veggies,-80.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Saturday,2022-12,WeekEnd,48
+160,Expense,2022-12-03 10:16:54,10:16,Balaji Sponge Dosa,-150.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2022-12,WeekEnd,48
+162,Expense,2022-12-02 11:26:09,11:26,Blood test,-950.0,INR,1.0,Household,Medicines,AmitK CC,,0 Dipti,None,Friday,2022-12,WeekDay,48
+163,Expense,2022-12-02 11:25:56,11:25,Blood test,-950.0,INR,1.0,Household,Medicines,AmitK CC,,0 Amit,None,Friday,2022-12,WeekDay,48
+167,Expense,2022-12-01 21:25:55,21:25,Lunch Health Kitchen,-404.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Amit 0 Dipti,None,Thursday,2022-12,WeekDay,48
+168,Expense,2022-12-01 17:23:37,17:23,Grocery Goyal,-232.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Thursday,2022-12,WeekDay,48
+169,Expense,2022-12-01 17:23:29,17:23,Print outs,-10.0,INR,1.0,Household,School,AmitK Savings,,0 Adi,None,Thursday,2022-12,WeekDay,48
+0,Expense,2023-04-30 17:44:17,17:44,Lunch Vishranti,-1200.0,INR,1.0,Entertainment,Dining Out,Wallet,,0 Adi 0 Amit,None,Sunday,2023-04,WeekEnd,18
+1,Expense,2023-04-30 07:00:55,07:00,Nyati Cook,-4000.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,18
+2,Expense,2023-04-30 07:00:36,07:00,Nyati Milk,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,18
+3,Expense,2023-04-30 07:00:24,07:00,Car clenaing,-700.0,INR,1.0,Household,Monthly,Wallet,,0 Family,None,Sunday,2023-04,WeekEnd,18
+4,Expense,2023-04-30 07:00:16,07:00,Nyati Newspaper,-180.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,18
+5,Expense,2023-04-29 16:51:50,16:51,Saraswat locker charges,-1534.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Family,None,Saturday,2023-04,WeekEnd,17
+6,Expense,2023-04-29 16:51:31,16:51,Parking Phoenix mall,-50.0,INR,1.0,Travel,Parking,Wallet,,0 Family,None,Saturday,2023-04,WeekEnd,17
+7,Expense,2023-04-29 16:50:58,16:50,MacD Softy,-50.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit 0 Dipti,None,Saturday,2023-04,WeekEnd,17
+8,Expense,2023-04-29 16:50:40,16:50,Mad Over Donut,-729.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-04,WeekEnd,17
+9,Expense,2023-04-29 12:04:42,12:04,Kaachi Biscuit,-100.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-04,WeekEnd,17
+10,Expense,2023-04-29 12:03:58,12:03,Tea,-40.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Saturday,2023-04,WeekEnd,17
+11,Expense,2023-04-29 12:03:25,12:03,Jogeshwari Misal,-345.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-04,WeekEnd,17
+12,Expense,2023-04-29 07:55:53,07:55,Nyati Maid 2,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Saturday,2023-04,WeekEnd,17
+13,Expense,2023-04-28 13:39:45,13:39,Nyka shopping,-187.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Friday,2023-04,WeekDay,17
+14,Expense,2023-04-28 13:39:30,13:39,Veggies,-140.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Friday,2023-04,WeekDay,17
+15,Expense,2023-04-27 21:08:44,21:08,Cake Chandrakanta,-700.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Thursday,2023-04,WeekDay,17
+16,Expense,2023-04-27 15:17:28,15:17,Zomato Gold,-249.0,INR,1.0,Household,HouseholdItems,AmitK CC,,0 Family,None,Thursday,2023-04,WeekDay,17
+17,Expense,2023-04-27 14:29:50,14:29,Dentist work,-25700.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Thursday,2023-04,WeekDay,17
+18,Expense,2023-04-27 14:29:37,14:29,Medicines,-328.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Thursday,2023-04,WeekDay,17
+19,Expense,2023-04-27 11:08:38,11:08,Toothbrush,-219.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Family,None,Thursday,2023-04,WeekDay,17
+20,Expense,2023-04-27 09:06:33,09:06,Cosmetics,-536.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Thursday,2023-04,WeekDay,17
+21,Expense,2023-04-26 20:28:31,20:28,Airtel data,-29.0,INR,1.0,Household,Maintenance,AmitK CC,,0 Adi,None,Wednesday,2023-04,WeekDay,17
+22,Expense,2023-04-26 15:15:08,15:15,Lunch Teri Rajput,-475.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Wednesday,2023-04,WeekDay,17
+23,Expense,2023-04-26 15:14:58,15:14,Curd,-30.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-04,WeekDay,17
+24,Expense,2023-04-26 15:14:39,15:14,Cookies,-160.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-04,WeekDay,17
+25,Expense,2023-04-26 15:14:11,15:14,Dental scan CBCT,-2000.0,INR,1.0,Household,Medicines,Dipti Savings,,0 Dipti,None,Wednesday,2023-04,WeekDay,17
+26,Expense,2023-04-26 07:55:18,07:55,Nyati Electricity bill,-1440.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Wednesday,2023-04,WeekDay,17
+27,Expense,2023-04-25 21:02:54,21:02,Veggies,-160.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Tuesday,2023-04,WeekDay,17
+28,Expense,2023-04-25 21:02:48,21:02,Eggs,-60.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,17
+29,Expense,2023-04-25 17:24:50,17:24,BB snacks,-39.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Tuesday,2023-04,WeekDay,17
+30,Expense,2023-04-25 11:47:56,11:47,BB coffee,-40.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-04,WeekDay,17
+33,Expense,2023-04-23 13:12:03,13:12,Rajusheth Misal,-530.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,17
+34,Expense,2023-04-23 10:19:46,10:19,Idli batter,-35.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2023-04,WeekEnd,17
+35,Expense,2023-04-23 10:19:35,10:19,Paneer,-180.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2023-04,WeekEnd,17
+36,Expense,2023-04-23 10:19:29,10:19,Veggies,-160.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Sunday,2023-04,WeekEnd,17
+37,Expense,2023-04-22 11:20:03,11:20,Cold drinks,-78.0,INR,1.0,Entertainment,Party,AmitK Savings,,0 Family,None,Saturday,2023-04,WeekEnd,16
+38,Expense,2023-04-22 11:19:36,11:19,Breakfast Dosa,-140.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-04,WeekEnd,16
+39,Expense,2023-04-22 10:19:53,10:19,Dinner Vishranti,-1071.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Saturday,2023-04,WeekEnd,16
+40,Expense,2023-04-21 21:51:24,21:51,Ironing,-60.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Dipti,None,Friday,2023-04,WeekDay,16
+41,Expense,2023-04-21 15:04:00,15:04,Help Firoz for Eid,-5000.0,INR,1.0,Others,Gift,AmitK Savings,,Donation,None,Friday,2023-04,WeekDay,16
+43,Expense,2023-04-21 11:19:37,11:19,Milind Bakery,-170.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Friday,2023-04,WeekDay,16
+44,Expense,2023-04-21 11:19:36,11:19,Gift Siya,-275.0,INR,1.0,Others,Gift,Dipti Savings,,0 Family,None,Friday,2023-04,WeekDay,16
+45,Expense,2023-04-21 11:19:35,11:19,Beer,-1240.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Amit 0 Dipti,None,Friday,2023-04,WeekDay,16
+46,Expense,2023-04-21 11:19:34,11:19,Gift contri,-129.0,INR,1.0,Others,Gift,Dipti Savings,,0 Family,None,Friday,2023-04,WeekDay,16
+47,Expense,2023-04-19 18:11:38,18:11,Paav and bun,-40.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-04,WeekDay,16
+48,Expense,2023-04-19 18:11:28,18:11,Reddy vada paav,-59.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Wednesday,2023-04,WeekDay,16
+49,Expense,2023-04-19 18:11:19,18:11,Altering,-40.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Wednesday,2023-04,WeekDay,16
+50,Expense,2023-04-19 12:06:24,12:06,Rajusheth Misal,-560.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Wednesday,2023-04,WeekDay,16
+51,Expense,2023-04-19 07:00:53,07:00,Airtel Black charges,-1706.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Wednesday,2023-04,WeekDay,16
+52,Expense,2023-04-18 18:14:55,18:14,Gajara,-30.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Dipti,None,Tuesday,2023-04,WeekDay,16
+53,Expense,2023-04-18 18:14:54,18:14,Veggies,-210.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Tuesday,2023-04,WeekDay,16
+54,Expense,2023-04-18 18:14:53,18:14,Auto,-250.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,16
+55,Expense,2023-04-18 18:14:52,18:14,Silver work,-275.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,16
+56,Expense,2023-04-18 18:14:51,18:14,Talshi baag shopping,-150.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Tuesday,2023-04,WeekDay,16
+57,Expense,2023-04-18 18:14:50,18:14,Spoons,-100.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,16
+58,Expense,2023-04-18 18:14:49,18:14,Flowers,-30.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,16
+59,Expense,2023-04-18 18:14:48,18:14,Lunch Shabari,-1350.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Tuesday,2023-04,WeekDay,16
+60,Expense,2023-04-18 16:13:08,16:13,BB lunch,-135.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Amit,None,Tuesday,2023-04,WeekDay,16
+61,Expense,2023-04-18 16:12:59,16:12,BB coffee,-42.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-04,WeekDay,16
+62,Expense,2023-04-17 20:04:33,20:04,BB coffee,-51.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Monday,2023-04,WeekDay,16
+63,Expense,2023-04-17 13:12:19,13:12,Bread,-23.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Monday,2023-04,WeekDay,16
+64,Expense,2023-04-17 13:12:06,13:12,Alphonso mangoes,-650.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Monday,2023-04,WeekDay,16
+65,Expense,2023-04-17 13:11:59,13:11,Grocery Goyal,-127.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Monday,2023-04,WeekDay,16
+66,Expense,2023-04-16 17:58:05,17:58,Social party,-1000.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Dipti,None,Sunday,2023-04,WeekEnd,16
+67,Expense,2023-04-16 17:57:44,17:57,Auto Nyati,-177.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Sunday,2023-04,WeekEnd,16
+68,Expense,2023-04-16 17:57:21,17:57,Auto Social,-208.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Sunday,2023-04,WeekEnd,16
+69,Expense,2023-04-15 19:58:56,19:58,Veggies,-140.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Saturday,2023-04,WeekEnd,15
+70,Expense,2023-04-15 19:58:46,19:58,Hair cut,-250.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Dipti,None,Saturday,2023-04,WeekEnd,15
+73,Expense,2023-04-15 14:38:52,14:38,Frozen Bottle,-1052.0,INR,1.0,Entertainment,FoodDelivery,AmitK CC,,0 Family,None,Saturday,2023-04,WeekEnd,15
+74,Expense,2023-04-14 19:53:07,19:53,Natak food etc,-850.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Dipti,None,Friday,2023-04,WeekDay,15
+76,Expense,2023-04-13 19:35:31,19:35,Pani puri,-40.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Thursday,2023-04,WeekDay,15
+77,Expense,2023-04-13 19:35:10,19:35,Steel shop,-1250.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Thursday,2023-04,WeekDay,15
+78,Expense,2023-04-13 14:42:47,14:42,Household stuff,-120.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Thursday,2023-04,WeekDay,15
+79,Expense,2023-04-13 14:42:38,14:42,Amul ice cream,-370.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-04,WeekDay,15
+80,Expense,2023-04-13 14:42:20,14:42,Ganesh Sweets,-175.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-04,WeekDay,15
+81,Expense,2023-04-13 14:42:14,14:42,Grocery Goyal,-130.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Thursday,2023-04,WeekDay,15
+82,Expense,2023-04-12 13:07:12,13:07,Amazon Prime renew,-1500.0,INR,1.0,Entertainment,Movies,AmitK CC,,0 Family,None,Wednesday,2023-04,WeekDay,15
+83,Expense,2023-04-12 12:39:08,12:39,Veggies,-256.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Wednesday,2023-04,WeekDay,15
+84,Expense,2023-04-11 18:11:30,18:11,Maid extra,-200.0,INR,1.0,Household,Monthly,Dipti Savings,,0 Family,None,Tuesday,2023-04,WeekDay,15
+85,Expense,2023-04-11 18:10:29,18:10,Milind Bakery,-203.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Tuesday,2023-04,WeekDay,15
+86,Expense,2023-04-10 11:45:49,11:45,BB coffee,-51.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Monday,2023-04,WeekDay,15
+87,Expense,2023-04-09 18:58:42,18:58,Petrol,-1200.0,INR,1.0,Travel,Fuel,AmitK CC,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+88,Expense,2023-04-09 18:58:26,18:58,Dinner Eatfit,-723.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+89,Expense,2023-04-09 16:57:24,16:57,Curd,-80.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,15
+90,Expense,2023-04-09 16:57:15,16:57,Idli batter,-35.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,15
+91,Expense,2023-04-09 16:56:58,16:56,Reddy vada paav,-98.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,15
+92,Expense,2023-04-09 16:20:28,16:20,Veggies,-115.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Sunday,2023-04,WeekEnd,15
+93,Expense,2023-04-09 16:19:51,16:19,Murud city entry,-20.0,INR,1.0,Travel,Travel,Wallet,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+94,Expense,2023-04-09 16:19:16,16:19,Murud Marina restaurant,-1635.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+95,Expense,2023-04-09 16:18:59,16:18,Murud hotel booking 2,-4600.0,INR,1.0,Travel,Booking,AmitK Savings,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+96,Expense,2023-04-09 08:36:38,08:36,Breakfast,-45.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Murud_Apr2023,None,Sunday,2023-04,WeekEnd,15
+97,Expense,2023-04-08 13:31:52,13:31,Fort entry,-50.0,INR,1.0,Travel,Booking,Wallet,,Murud_Apr2023,None,Saturday,2023-04,WeekEnd,14
+98,Expense,2023-04-08 13:31:23,13:31,Boat tip,-200.0,INR,1.0,Travel,Travel,Wallet,,Murud_Apr2023,None,Saturday,2023-04,WeekEnd,14
+99,Expense,2023-04-08 13:30:14,13:30,Janjira boat,-240.0,INR,1.0,Travel,Cab,Wallet,,Murud_Apr2023,None,Saturday,2023-04,WeekEnd,14
+100,Expense,2023-04-08 13:29:59,13:29,Breakfast,-195.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Murud_Apr2023,None,Saturday,2023-04,WeekEnd,14
+101,Expense,2023-04-08 09:23:22,09:23,Ice gola,-20.0,INR,1.0,Entertainment,Dining Out,Wallet,,Murud_Apr2023,None,Saturday,2023-04,WeekEnd,14
+102,Expense,2023-04-07 14:44:26,14:44,Toll,-287.0,INR,1.0,Travel,Travel,AmitK Savings,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+103,Expense,2023-04-07 14:43:12,14:43,Lunch Murud,-700.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+104,Expense,2023-04-07 14:41:56,14:41,Kokam sarbat,-40.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+105,Expense,2023-04-07 14:41:31,14:41,Pali temple parking,-40.0,INR,1.0,Travel,Parking,Wallet,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+106,Expense,2023-04-07 14:40:40,14:40,Petrol,-1500.0,INR,1.0,Travel,Fuel,AmitK CC,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+107,Expense,2023-04-07 09:16:08,09:16,Breakfast Tawde Vada,-301.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+108,Expense,2023-04-07 08:37:06,08:37,Water,-20.0,INR,1.0,Entertainment,Dining Out,Wallet,,Murud_Apr2023,None,Friday,2023-04,WeekDay,14
+109,Expense,2023-04-06 10:33:48,10:33,Murud hotel booking 1,-1000.0,INR,1.0,Travel,Booking,AmitK Savings,,Murud_Apr2023,None,Thursday,2023-04,WeekDay,14
+110,Expense,2023-04-06 10:33:36,10:33,Garg Pedhi,-221.0,INR,1.0,Household,Grocery,Dipti Savings,,Murud_Apr2023,None,Thursday,2023-04,WeekDay,14
+111,Expense,2023-04-06 10:33:08,10:33,Milind Bakery,-250.0,INR,1.0,Household,Grocery,Dipti Savings,,Murud_Apr2023,None,Thursday,2023-04,WeekDay,14
+116,Expense,2023-04-05 07:20:46,07:20,UrbanClap spa,-1020.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Dipti,None,Wednesday,2023-04,WeekDay,14
+117,Expense,2023-04-05 07:00:17,07:00,Renuga pipe gas bill,-581.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Wednesday,2023-04,WeekDay,14
+118,Expense,2023-04-04 18:31:43,18:31,Marathi Play,-435.0,INR,1.0,Entertainment,Movies,Dipti Savings,,0 Dipti,None,Tuesday,2023-04,WeekDay,14
+120,Expense,2023-04-03 20:40:23,20:40,Milind Bakery,-246.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Monday,2023-04,WeekDay,14
+121,Expense,2023-04-03 20:39:57,20:39,Luxor property tax,-2584.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Family,None,Monday,2023-04,WeekDay,14
+122,Expense,2023-04-02 21:48:02,21:48,Nycil,-40.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Sunday,2023-04,WeekEnd,14
+123,Expense,2023-04-02 19:40:17,19:40,Amit Saloon,-200.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Amit,None,Sunday,2023-04,WeekEnd,14
+124,Expense,2023-04-02 19:40:09,19:40,Veggies,-170.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Sunday,2023-04,WeekEnd,14
+125,Expense,2023-04-02 19:39:49,19:39,Paav,-30.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Sunday,2023-04,WeekEnd,14
+126,Expense,2023-04-02 15:40:52,15:40,Lunch 24K Kraft,-4530.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Family,None,Sunday,2023-04,WeekEnd,14
+130,Expense,2023-04-01 19:43:28,19:43,Dinner Barbeque Nation,-641.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Saturday,2023-04,WeekEnd,13
+131,Expense,2023-04-01 13:22:51,13:22,Veggies,-40.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Saturday,2023-04,WeekEnd,13
+132,Expense,2023-04-01 13:20:23,13:20,Verna new tyres,-33221.0,INR,1.0,Travel,Maintenance,AmitK CC,,0 Family,None,Saturday,2023-04,WeekEnd,13
+134,Expense,2023-04-01 09:33:39,09:33,BigBasket,-1724.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family,None,Saturday,2023-04,WeekEnd,13
+0,Expense,2023-03-31 17:44:51,17:44,Samosa Paav,-70.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Friday,2023-03,WeekDay,13
+1,Expense,2023-03-31 16:07:26,16:07,Spice Route stuff,-3700.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Friday,2023-03,WeekDay,13
+3,Expense,2023-03-30 20:24:55,20:24,Nyaka,-367.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Thursday,2023-03,WeekDay,13
+4,Expense,2023-03-30 20:04:50,20:04,Chaat,-85.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Thursday,2023-03,WeekDay,13
+5,Expense,2023-03-30 13:32:52,13:32,Veggies,-230.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Thursday,2023-03,WeekDay,13
+6,Expense,2023-03-30 07:00:55,07:00,Nyati Cook,-4000.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,13
+7,Expense,2023-03-30 07:00:36,07:00,Nyati Milk,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,13
+8,Expense,2023-03-30 07:00:24,07:00,Car clenaing,-700.0,INR,1.0,Household,Monthly,Wallet,,0 Family,None,Thursday,2023-03,WeekDay,13
+9,Expense,2023-03-30 07:00:16,07:00,Nyati Newspaper,-170.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,13
+10,Expense,2023-03-29 19:57:46,19:57,Activa petrol,-451.0,INR,1.0,Travel,Fuel,AmitK Savings,,0 Family,None,Wednesday,2023-03,WeekDay,13
+11,Expense,2023-03-29 07:55:53,07:55,Nyati Maid 2,-1600.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Wednesday,2023-03,WeekDay,13
+12,Expense,2023-03-27 17:48:36,17:48,Stationary,-125.0,INR,1.0,Household,School,Dipti Savings,,0 Adi,None,Monday,2023-03,WeekDay,13
+13,Expense,2023-03-27 17:48:35,17:48,Oti stuff,-50.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Monday,2023-03,WeekDay,13
+14,Expense,2023-03-26 10:24:07,10:24,BigBasket,-1710.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Sunday,2023-03,WeekEnd,13
+15,Expense,2023-03-26 07:55:18,07:55,Nyati Electricity bill,-1200.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-03,WeekEnd,13
+16,Expense,2023-03-25 18:28:11,18:28,Veggies,-25.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Saturday,2023-03,WeekEnd,12
+17,Expense,2023-03-25 11:58:53,11:58,Milind Bakery,-260.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-03,WeekEnd,12
+18,Expense,2023-03-25 11:43:46,11:43,Print outs,-17.0,INR,1.0,Household,School,Dipti Savings,,0 Dipti,None,Saturday,2023-03,WeekEnd,12
+19,Expense,2023-03-25 11:43:31,11:43,Biscuit,-25.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-03,WeekEnd,12
+20,Expense,2023-03-25 11:43:22,11:43,Basmati rice,-80.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-03,WeekEnd,12
+21,Expense,2023-03-25 11:43:09,11:43,Gift wrapping,-20.0,INR,1.0,Others,Gift,Dipti Savings,,0 Family,None,Saturday,2023-03,WeekEnd,12
+22,Expense,2023-03-25 11:42:59,11:42,Veggies,-250.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family Health ,None,Saturday,2023-03,WeekEnd,12
+23,Expense,2023-03-25 10:24:17,10:24,Breakfast Chhole Bhature,-330.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Saturday,2023-03,WeekEnd,12
+24,Expense,2023-03-25 09:54:03,09:54,Licious Chicken,-446.0,INR,1.0,Household,Grocery,AmitK CC,,0 Adi 0 Amit,None,Saturday,2023-03,WeekEnd,12
+27,Expense,2023-03-24 10:24:39,10:24,Precision training,-9000.0,INR,1.0,Household,School,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,12
+31,Expense,2023-03-23 21:07:36,21:07,Fruits,-400.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,12
+32,Expense,2023-03-23 19:06:49,19:06,BB coffee,-20.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2023-03,WeekDay,12
+33,Expense,2023-03-23 19:06:43,19:06,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2023-03,WeekDay,12
+34,Expense,2023-03-23 19:06:22,19:06,Kwality Walls,-878.0,INR,1.0,Household,Grocery,Wallet,,0 Family,None,Thursday,2023-03,WeekDay,12
+35,Expense,2023-03-22 21:15:26,21:15,Battery for weighing machine,-30.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Family,None,Wednesday,2023-03,WeekDay,12
+36,Expense,2023-03-22 21:15:20,21:15,Eggs,-60.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-03,WeekDay,12
+37,Expense,2023-03-22 21:15:05,21:15,Grocery Goyal,-125.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Wednesday,2023-03,WeekDay,12
+38,Expense,2023-03-21 21:00:01,21:00,Amazon shopping,-1701.0,INR,1.0,Entertainment,Shopping,AmitK CC,,0 Family,None,Tuesday,2023-03,WeekDay,12
+39,Expense,2023-03-21 19:45:17,19:45,Mango leaves,-20.0,INR,1.0,Household,Maintenance,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+40,Expense,2023-03-21 19:44:58,19:44,Haar,-20.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+41,Expense,2023-03-21 19:44:39,19:44,Samosa,-38.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Amit,None,Tuesday,2023-03,WeekDay,12
+42,Expense,2023-03-21 19:44:14,19:44,Samosa,-20.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Adi,None,Tuesday,2023-03,WeekDay,12
+43,Expense,2023-03-21 14:15:33,14:15,Electric board repair,-1000.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+44,Expense,2023-03-21 14:15:13,14:15,Piped gas repair,-100.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+45,Expense,2023-03-21 13:27:05,13:27,Auto Nyati,-160.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Tuesday,2023-03,WeekDay,12
+46,Expense,2023-03-21 13:26:26,13:26,Garg Pedhi,-260.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+47,Expense,2023-03-21 13:26:16,13:26,Vastra,-5.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+48,Expense,2023-03-21 13:26:05,13:26,Flowers,-60.0,INR,1.0,Household,HouseholdItems,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,12
+49,Expense,2023-03-20 13:26:49,13:26,Auto KYN,-131.0,INR,1.0,Travel,Travel,Dipti Savings,,0 Dipti,None,Monday,2023-03,WeekDay,12
+50,Expense,2023-03-19 12:47:12,12:47,Licious Chicken,-597.0,INR,1.0,Household,Grocery,AmitK CC,,0 Adi 0 Amit,None,Sunday,2023-03,WeekEnd,12
+51,Expense,2023-03-19 07:00:53,07:00,Airtel Black charges,-954.0,INR,1.0,Household,Monthly,AmitK CC,,0 Family,None,Sunday,2023-03,WeekEnd,12
+52,Expense,2023-03-18 19:51:54,19:51,Veggies,-240.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family Health ,None,Saturday,2023-03,WeekEnd,11
+53,Expense,2023-03-18 19:51:42,19:51,Grocery Goyal,-287.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Saturday,2023-03,WeekEnd,11
+54,Expense,2023-03-17 20:06:51,20:06,Amit Saloon,-400.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Amit,None,Friday,2023-03,WeekDay,11
+55,Expense,2023-03-17 20:06:43,20:06,Adi saloon,-100.0,INR,1.0,Household,Maintenance,AmitK Savings,,0 Adi,None,Friday,2023-03,WeekDay,11
+56,Expense,2023-03-17 20:06:31,20:06,Laptop battery,-1800.0,INR,1.0,Household,School,AmitK Savings,,0 Family,None,Friday,2023-03,WeekDay,11
+57,Expense,2023-03-17 15:48:08,15:48,Amazon Fresh,-1560.0,INR,1.0,Household,Grocery,AmitK CC,,0 Family,None,Friday,2023-03,WeekDay,11
+58,Expense,2023-03-17 13:27:09,13:27,Ice cream,-500.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,11
+59,Expense,2023-03-17 13:27:08,13:27,Kid gift,-100.0,INR,1.0,Others,Gift,Dipti Savings,,0 Family,None,Friday,2023-03,WeekDay,11
+60,Expense,2023-03-17 13:27:07,13:27,Dry fruits,-330.0,INR,1.0,Household,Grocery,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,11
+61,Expense,2023-03-17 13:27:06,13:27,Auto Dmbl,-250.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,11
+62,Expense,2023-03-17 13:27:05,13:27,Girls party,-400.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,11
+63,Expense,2023-03-17 13:27:04,13:27,Jyo lunch,-1000.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Dipti,None,Friday,2023-03,WeekDay,11
+64,Expense,2023-03-17 12:03:07,12:03,Milind Bakery,-295.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Friday,2023-03,WeekDay,11
+65,Expense,2023-03-16 17:02:27,17:02,Sugarcane juice,-50.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Adi 0 Amit,None,Thursday,2023-03,WeekDay,11
+66,Expense,2023-03-16 17:02:07,17:02,Courier cheques,-150.0,INR,1.0,Household,HouseholdItems,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,11
+67,Expense,2023-03-15 10:30:49,10:30,Vada paav,-15.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Wednesday,2023-03,WeekDay,11
+68,Expense,2023-03-15 10:30:32,10:30,Auto PUN,-156.0,INR,1.0,Travel,Cab,Dipti Savings,,0 Dipti,None,Wednesday,2023-03,WeekDay,11
+69,Expense,2023-03-14 17:03:05,17:03,Sri Sai Vada Paav,-39.0,INR,1.0,Entertainment,FoodDelivery,Dipti Savings,,0 Family,None,Tuesday,2023-03,WeekDay,11
+70,Expense,2023-03-14 17:03:04,17:03,Pani puri,-60.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Tuesday,2023-03,WeekDay,11
+71,Expense,2023-03-14 16:22:46,16:22,BB coffee,-35.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Tuesday,2023-03,WeekDay,11
+72,Expense,2023-03-14 07:22:31,07:22,IRCTC KYN PNQ,-589.0,INR,1.0,Travel,Booking,Dipti Savings,,0 Dipti,None,Tuesday,2023-03,WeekDay,11
+73,Expense,2023-03-14 07:22:00,07:22,IRCTC PNQ KYN,-117.0,INR,1.0,Travel,Booking,Dipti Savings,,0 Dipti,None,Tuesday,2023-03,WeekDay,11
+74,Expense,2023-03-13 17:58:24,17:58,Fruits,-350.0,INR,1.0,Household,Grocery,AmitK Savings,,0 Family,None,Monday,2023-03,WeekDay,11
+75,Expense,2023-03-13 16:58:05,16:58,BB coffee,-71.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Monday,2023-03,WeekDay,11
+76,Expense,2023-03-13 07:23:32,07:23,Kisan Connect,-423.0,INR,1.0,Household,Grocery,Sodexho,,0 Family Health ,None,Monday,2023-03,WeekDay,11
+77,Expense,2023-03-12 19:52:00,19:52,Dinner Vishranti,-573.0,INR,1.0,Entertainment,FoodDelivery,AmitK Savings,,0 Family,None,Sunday,2023-03,WeekEnd,11
+78,Expense,2023-03-12 19:38:53,19:38,Knife sharpening,-200.0,INR,1.0,Household,HouseholdItems,Wallet,,0 Family,None,Sunday,2023-03,WeekEnd,11
+79,Expense,2023-03-12 19:38:41,19:38,T shirt,-677.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Sunday,2023-03,WeekEnd,11
+80,Expense,2023-03-12 11:35:23,11:35,Power plug,-90.0,INR,1.0,Entertainment,Dining Out,AmitK CC,,0 Family,None,Sunday,2023-03,WeekEnd,11
+81,Expense,2023-03-11 14:32:52,14:32,Lunch Novotel,-2134.0,INR,1.0,Entertainment,Party,AmitK CC,,0 Family,None,Saturday,2023-03,WeekEnd,10
+82,Expense,2023-03-10 21:17:36,21:17,Novotel bakery,-184.0,INR,1.0,Entertainment,Party,AmitK CC,,0 Family,None,Friday,2023-03,WeekDay,10
+83,Expense,2023-03-10 21:17:25,21:17,Swiggy Insta,-138.0,INR,1.0,Entertainment,Party,Dipti Savings,,0 Family,None,Friday,2023-03,WeekDay,10
+84,Expense,2023-03-09 20:27:06,20:27,Maths book,-384.0,INR,1.0,Household,School,AmitK CC,,0 Adi,None,Thursday,2023-03,WeekDay,10
+85,Expense,2023-03-09 11:48:59,11:48,BB coffee,-40.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2023-03,WeekDay,10
+86,Expense,2023-03-09 11:48:53,11:48,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Thursday,2023-03,WeekDay,10
+87,Expense,2023-03-08 11:59:03,11:59,Adi b'day cake,-2100.0,INR,1.0,Entertainment,Party,AmitK CC,,0 Family,None,Wednesday,2023-03,WeekDay,10
+88,Expense,2023-03-08 11:58:55,11:58,BigBasket,-720.0,INR,1.0,Household,Grocery,Sodexho,,0 Family,None,Wednesday,2023-03,WeekDay,10
+89,Expense,2023-03-06 17:58:36,17:58,Anup Bakery,-66.0,INR,1.0,Entertainment,Party,AmitK Savings,,0 Family,None,Monday,2023-03,WeekDay,10
+90,Expense,2023-03-06 17:58:28,17:58,BB coffee,-31.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Amit,None,Monday,2023-03,WeekDay,10
+93,Expense,2023-03-05 21:57:42,21:57,Kisan Connect,-233.0,INR,1.0,Household,Grocery,Sodexho,,0 Family Health ,None,Sunday,2023-03,WeekEnd,10
+94,Expense,2023-03-05 21:23:33,21:23,Paan,-40.0,INR,1.0,Entertainment,Dining Out,Dipti Savings,,0 Dipti,None,Sunday,2023-03,WeekEnd,10
+95,Expense,2023-03-05 19:50:09,19:50,Bounty Sizzlers,-2223.0,INR,1.0,Entertainment,Party,AmitK CC,,0 Family,None,Sunday,2023-03,WeekEnd,10
+96,Expense,2023-03-05 19:49:53,19:49,Grocery Goyal,-200.0,INR,1.0,Entertainment,Party,AmitK Savings,,0 Family,None,Sunday,2023-03,WeekEnd,10
+97,Expense,2023-03-05 19:49:34,19:49,Use n throw stuff,-220.0,INR,1.0,Entertainment,Party,AmitK Savings,,0 Family,None,Sunday,2023-03,WeekEnd,10
+98,Expense,2023-03-05 19:49:24,19:49,Garg Pedhi,-933.0,INR,1.0,Entertainment,Party,Sodexho,,0 Family,None,Sunday,2023-03,WeekEnd,10
+99,Expense,2023-03-05 07:00:17,07:00,Renuga pipe gas bill,-510.0,INR,1.0,Household,Monthly,AmitK Savings,,0 Family,None,Sunday,2023-03,WeekEnd,10
+100,Expense,2023-03-04 22:14:36,22:14,Gramin Kulfi,-615.0,INR,1.0,Entertainment,Dining Out,Sodexho,,0 Family,None,Saturday,2023-03,WeekEnd,09
+101,Expense,2023-03-04 17:54:59,17:54,Chikki,-100.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Saturday,2023-03,WeekEnd,09
+102,Expense,2023-03-04 17:54:47,17:54,Auto Nyati,-160.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Saturday,2023-03,WeekEnd,09
+103,Expense,2023-03-04 08:41:22,08:41,Begger,-20.0,INR,1.0,Household,Donation,Wallet,,0 Family,None,Saturday,2023-03,WeekEnd,09
+104,Expense,2023-03-04 08:30:57,08:30,Auto KYN,-150.0,INR,1.0,Travel,Travel,AmitK Savings,,0 Family,None,Saturday,2023-03,WeekEnd,09
+105,Expense,2023-03-03 21:39:01,21:39,Food Agasti,-135.0,INR,1.0,Entertainment,Dining Out,AmitK Savings,,0 Family,None,Friday,2023-03,WeekDay,09
+106,Expense,2023-03-03 17:18:31,17:18,Auto Dmbl,-80.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Amit,None,Friday,2023-03,WeekDay,09
+107,Expense,2023-03-02 17:37:58,17:37,Night cream,-1600.0,INR,1.0,Entertainment,Shopping,Dipti Savings,,0 Dipti,None,Thursday,2023-03,WeekDay,09
+108,Expense,2023-03-02 17:19:04,17:19,Auto Pune,-163.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,09
+109,Expense,2023-03-02 17:19:03,17:19,Auto Molinia,-150.0,INR,1.0,Travel,Cab,AmitK Savings,,0 Family,None,Thursday,2023-03,WeekDay,09
+110,Expense,2023-03-02 14:58:11,14:58,Kaventers,-451.0,INR,1.0,Entertainment,FoodDelivery,Sodexho,,0 Family,None,Thursday,2023-03,WeekDay,09
+111,Expense,2023-03-02 12:29:01,12:29,Amazon shopping,-831.0,INR,1.0,Entertainment,Shopping,Sodexho,,0 Dipti,None,Thursday,2023-03,WeekDay,09
