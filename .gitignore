@@ -3,6 +3,8 @@
 ./my_venv/
 my_venv/
 my_venv
+./espncricinfo-fc/
+__pycache__
 
 
 # below files will be ignores

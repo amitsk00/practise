@@ -12,6 +12,7 @@ import fnmatch
 # matplotlib.use('TkAgg')
 
 
+
 myConfig = configparser.ConfigParser()
 myConfig.read("config.ini")
 

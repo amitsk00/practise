@@ -5,10 +5,17 @@ pandas==1.5.3
 numpy==1.22.1
 configparser
 matplotlib
-fnmatch
+# fnmatch
+
+pyxirr
 
 
 #tkinter
 
 # not needed or not working
 # os
+
+
+gspread
+
+
