@@ -49,33 +49,14 @@ def processEqCsv():
     dfEq = dfEq.astype(colsTypeEq)
     dfEq['Date'] = pd.to_datetime(dfEq['Date'] ) 
 
-    # dfTmp = dfEq["Date"]
-    # ste1 = set(dfTmp)
-    # print(ste1)
-
-
-    # dfEq['Date'] = pd.to_datetime(dfEq['Date'], format='%y%m%d') 
-    
-    # print(dfEq)
-
-    # print(dfEq.describe)
-    # print("=================================================")
-    # print(dfEq.dtypes)
-    # print("=================================================")
 
     nameEq = dfEq["Scrip"]
     nameEqSet = set(nameEq)
     
-    
-    # for str in nameEqSet:
-    #     print("{} - {}".format(str , type(str)))
-    #     if pd.isna(str):
-    #         print("X")
-    # exit()
 
     print("-------------------------------------------------------")
     for currEqName in nameEqSet:
-        print("\n\n          Now processing for {}".format(currEqName))
+        # print("\n\n          Now processing for {}".format(currEqName))
         if pd.isna(currEqName):
             continue
         else:
