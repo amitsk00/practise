@@ -21,3 +21,6 @@ selenium
 gspread
 
 
+fastapi
+
+
