@@ -9,6 +9,8 @@ matplotlib
 
 pyxirr
 
+selenium
+
 
 #tkinter
 
@@ -17,5 +19,8 @@ pyxirr
 
 
 gspread
+
+
+fastapi
 
 
